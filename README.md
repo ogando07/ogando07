@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tomás Ogando</h1>
 <h3 align="center">A passionate gamer and geek looking forward to learn</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogando07" alt="ogando07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tomsogando" target="blank"><img src="https://img.shields.io/twitter/follow/tomsogando?logo=twitter&style=for-the-badge" alt="tomsogando" /></a> </p>
 
 - 🔭 I’m currently working on [miniblockchain](https://github.com/ogando07/miniblockchain)
 
-- 🌱 I’m currently learning **Blockchains, cybersecurity and Python**
+- 🌱 I’m currently learning **Blockchains, Cybersecurity and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tomsogando" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomsogando" height="30" width="40" /></a>
-<a href="https://instagram.com/@t_ogando" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@t_ogando" height="30" width="40" /></a>
+<a href="https://instagram.com/t_ogando" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="t_ogando" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
